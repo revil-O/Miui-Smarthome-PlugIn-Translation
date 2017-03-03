@@ -11,8 +11,8 @@
     <string name="picker_month">Monat</string>
     <string name="picker_year">Jahr</string>
     <string name="pull_down_refresh">laden</string>
-    <string name="refreshing">loading…</string>
-    <string name="refreshing_no_point">loading</string>
+    <string name="refreshing">lade…</string>
+    <string name="refreshing_no_point">lade</string>
     <string name="refreshing_retry">Failed to load, retry?</string>
     <string name="release_to_refresh">loslassen zum aktualisieren</string>
     <string name="Cancel">Abbruch</string>
@@ -28,11 +28,11 @@
     <string name="back_to_orign_fail">Failed to find cradle and return to start</string>
     <string name="back_to_orign_succ">No charge cradle found. Please try again near the cradle</string>
     <string name="battery">Batterie</string>
-    <string name="battery_remain">remaining battery</string>
+    <string name="battery_remain">verbleibende Akkuladung</string>
     <string name="button_confirm">confirm</string>
-    <string name="button_contact">contact</string>
-    <string name="button_retry">Retry</string>
-    <string name="charge">Charge</string>
+    <string name="button_contact">Kontakt</string>
+    <string name="button_retry">Wiederholen</string>
+    <string name="charge">Aufladen</string>
     <string name="charge_error_status">Charging error</string>
     <string name="charge_in_clean">Back in charge</string>
     <string name="charge_text">Charge</string>
