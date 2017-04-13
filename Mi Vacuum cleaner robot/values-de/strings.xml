@@ -3,7 +3,7 @@
     <string name="app_name">Rockrobo</string>
     <string name="cancel">abbrechen</string>
     <string name="ignore">ignorieren</string>
-    <string name="know_button">understood</string>
+    <string name="know_button">verstanden</string>
     <string name="ok_button">OK</string>
     <string name="picker_day">Tag</string>
     <string name="picker_hour">Stunde</string>
@@ -13,7 +13,7 @@
     <string name="pull_down_refresh">laden</string>
     <string name="refreshing">lade…</string>
     <string name="refreshing_no_point">lade</string>
-    <string name="refreshing_retry">Failed to load, retry?</string>
+    <string name="refreshing_retry">Laden fehlgeschlagen, erneut versuchen!?</string>
     <string name="release_to_refresh">loslassen zum aktualisieren</string>
     <string name="Cancel">Abbruch</string>
     <string name="OK">OK</string>
