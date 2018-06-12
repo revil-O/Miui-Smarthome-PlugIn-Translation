@@ -9,7 +9,7 @@ Deutsche Übersetzungen für PlugIns der MI Home Android app
 values-de/strings.xml
 apk/4503.apk
 ```
-![alt text] (https://github.com/revil-O/Miui-Smarthome-PlugIn-Translation/blob/master/Mi%20Repeater/media/screen1.png "Mi Repeater")
+[<img src="https://github.com/revil-O/Miui-Smarthome-PlugIn-Translation/blob/master/Mi%20Repeater/media/screen1.png" width=250>](https://github.com/revil-O/Miui-Smarthome-PlugIn-Translation/blob/master/Mi%20Repeater/media/screen1.png)
 
 - Mi StaubsaugRoboter
 ###
