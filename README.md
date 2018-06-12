@@ -11,7 +11,7 @@ apk/4503.apk
 ```
 [<img src="https://github.com/revil-O/Miui-Smarthome-PlugIn-Translation/blob/master/Mi%20Repeater/media/screen1.png" width=250>](https://github.com/revil-O/Miui-Smarthome-PlugIn-Translation/blob/master/Mi%20Repeater/media/screen1.png)
 
-- Mi StaubsaugRoboter
+- Mi StaubsaugRoboter / RoboRock / Version 1
 ###
 ```
 values-de/strings.xml
